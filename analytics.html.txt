@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campaign Analytics - Lone Wolf</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo"><strong>LONE WOLF</strong></div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="community.html">Community</a>
+            <a href="campaigns.html">Campaigns</a>
+            <a href="analytics.html">Analytics</a>
+            <a href="pricing.html">Pricing</a>
+            <a href="collaborators.html">Collaborators</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Campaign Analytics & Results</h2>
+        <p>Here’s a snapshot of our recent campaigns and the results we achieved for our collaborators across YouTube, TikTok, Instagram, and Twitch:</p>
+
+        <div class="cards">
+            <!-- Heroes of Mavia -->
+            <div class="card">
+                <h3>Heroes of Mavia</h3>
+                <p><strong>Result:</strong> 1,000,000+ downloads in the first 24 hours</p>
+                <p>Platform reach: YouTube, TikTok, Instagram, Twitch</p>
+            </div>
+
+            <!-- Corex Trade -->
+            <div class="card">
+                <h3>Corex Trade</h3>
+                <p><strong>Result:</strong> 5,000,000+ downloads in under 100 hours</p>
+                <p>Platform reach: YouTube, TikTok, Instagram, Twitch</p>
+            </div>
+
+            <!-- SteelSeries Headphones -->
+            <div class="card">
+                <h3>SteelSeries Headphones</h3>
+                <p><strong>Result:</strong> 1,000+ units sold in 48 hours</p>
+                <p>Platform reach: YouTube, TikTok, Instagram, Twitch</p>
+            </div>
+
+            <!-- Truckers of Europe 3 -->
+            <div class="card">
+                <h3>Truckers of Europe 3</h3>
+                <p><strong>Result:</strong> 1,000,000+ downloads in 48 hours</p>
+                <p>Platform reach: YouTube, TikTok, Instagram, Twitch</p>
+            </div>
+
+            <!-- Razer Product Campaign -->
+            <div class="card">
+                <h3>Razer Product Campaign</h3>
+                <p><strong>Result:</strong> 700–1,200+ units sold of selected Razer product</p>
+                <p>Platform reach: YouTube, TikTok, Instagram, Twitch</p>
+            </div>
+
+            <!-- OBSBOT Smart AI Camera -->
+            <div class="card">
+                <h3>OBSBOT Smart AI Camera</h3>
+                <p><strong>Result:</strong> 1,400+ units sold in the first 48 hours</p>
+                <p>Platform reach: YouTube, TikTok, Instagram, Twitch</p>
+            </div>
+
+            <!-- Xiaomi Poco F6 -->
+            <div class="card">
+                <h3>Xiaomi Poco F6</h3>
+                <p><strong>Result:</strong> 400+ units sold via affiliated link</p>
+                <p>Platform reach: YouTube, TikTok, Instagram, Twitch</p>
+            </div>
+        </div>
+
+        <p>These results demonstrate our ability to deliver <strong>high-impact campaigns</strong> across multiple platforms, ensuring maximum reach, downloads, and sales for our collaborators.</p>
+
+        <p>Want results like these? <a href="pricing.html">Check our collaboration plans</a> and let’s create your next successful campaign!</p>
+    </section>
+
+    <footer>
+        © 2026 Lone Wolf Portfolio. All Rights Reserved.
+    </footer>
+</body>
+</html>
