@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Lone Wolf</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo"><strong>LONE WOLF</strong></div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="community.html">Community</a>
+            <a href="campaigns.html">Campaigns</a>
+            <a href="pricing.html">Pricing</a>
+            <a href="collaborators.html">Collaborators</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>If you’re ready to collaborate or want to discuss a campaign, reach out to us directly:</p>
+
+        <div class="contact-info">
+            <p><strong>Email:</strong> <a href="mailto:contact.to.lonewolf@gmail.com">contact.to.lonewolf@gmail.com</a></p>
+        </div>
+
+        <h3>Or send us a message directly:</h3>
+        <form action="mailto:contact.to.lonewolf@gmail.com" method="post" enctype="text/plain">
+            <label for="name">Your Name:</label><br>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="email">Your Email:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="message">Your Message:</label><br>
+            <textarea id="message" name="message" rows="6" required></textarea><br><br>
+
+            <button type="submit">Send Message</button>
+        </form>
+
+        <p>We usually respond within 24–48 hours. Let’s make your campaign a success!</p>
+    </section>
+
+    <footer>
+        © 2026 Lone Wolf Portfolio. All Rights Reserved.
+    </footer>
+</body>
+</html>

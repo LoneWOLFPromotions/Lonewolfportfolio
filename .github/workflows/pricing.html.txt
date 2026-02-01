@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pricing & Collaboration - Lone Wolf</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo"><strong>LONE WOLF</strong></div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="community.html">Community</a>
+            <a href="campaigns.html">Campaigns</a>
+            <a href="pricing.html">Pricing</a>
+            <a href="collaborators.html">Collaborators</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Collaboration Subscription Plans</h2>
+        <p>Choose the plan that suits your campaign goals. Each plan includes integrated ads and sponsored videos (30–60 seconds) performed across <strong>YouTube, TikTok, Instagram, and Twitch</strong>. All plans also include dedicated videos and posts about updates for your app, game, or product. Longer plans include custom merchandise.</p>
+
+        <div class="cards">
+            <!-- ONE MONTH REGULAR PLAN -->
+            <div class="card">
+                <h3>Regular - 1 Month</h3>
+                <p>Price: $14.99</p>
+                <p>Integrated ads and sponsored videos across YouTube, TikTok, Instagram, and Twitch.</p>
+                <p>Dedicated videos and posts about your product or updates.</p>
+                <button>Contact for Regular</button>
+            </div>
+
+            <!-- SILVER PLAN -->
+            <div class="card">
+                <h3>Silver - 2 Months</h3>
+                <p>Price: $2,299</p>
+                <p>Integrated ads and sponsored videos across YouTube, TikTok, Instagram, and Twitch.</p>
+                <p>Dedicated videos and posts about your product or updates.</p>
+                <button>Contact for Silver</button>
+            </div>
+
+            <!-- GOLD PLAN -->
+            <div class="card">
+                <h3>Gold - 3 Months</h3>
+                <p>Price: $3,199</p>
+                <p>Integrated ads and sponsored videos across YouTube, TikTok, Instagram, and Twitch.</p>
+                <p>Dedicated videos and posts about your product or updates.</p>
+                <button>Contact for Gold</button>
+            </div>
+
+            <!-- PLATINUM PLAN -->
+            <div class="card">
+                <h3>Platinum - 6 Months</h3>
+                <p>Price: $5,999</p>
+                <p>Integrated ads and sponsored videos across YouTube, TikTok, Instagram, and Twitch.</p>
+                <p>Dedicated videos and posts about your product or updates.</p>
+                <p><strong>Bonus:</strong> Custom merchandise included.</p>
+                <button>Contact for Platinum</button>
+            </div>
+
+            <!-- DIAMOND PLAN -->
+            <div class="card">
+                <h3>Diamond - 12 Months + 1 Month Free</h3>
+                <p>Price: $11,999</p>
+                <p>Integrated ads and sponsored videos across YouTube, TikTok, Instagram, and Twitch.</p>
+                <p>Dedicated videos and posts about your product or updates.</p>
+                <p><strong>Bonus:</strong> Custom merchandise included.</p>
+                <button>Contact for Diamond</button>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        © 2026 Lone Wolf Portfolio. All Rights Reserved.
+    </footer>
+</body>
+</html>

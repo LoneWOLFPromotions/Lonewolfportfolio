@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creators Community - Lone Wolf</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo"><strong>LONE WOLF</strong></div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="community.html">Community</a>
+            <a href="campaigns.html">Campaigns</a>
+            <a href="pricing.html">Pricing</a>
+            <a href="collaborators.html">Collaborators</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Our Creators Community</h2>
+        <p>We manage a curated network of professional content creators. Our team ensures all campaigns are executed efficiently, reaching the right audience while keeping all creators under one management system.</p>
+        <div class="cards">
+            <div class="card">
+                <h3>Multi-Platform Reach</h3>
+                <p>Our campaigns cover YouTube, Instagram, TikTok, and Twitch.</p>
+            </div>
+            <div class="card">
+                <h3>Various Niches</h3>
+                <p>From gaming to tech reviews, our network covers diverse content categories.</p>
+            </div>
+            <div class="card">
+                <h3>Managed Campaigns</h3>
+                <p>Brands work directly with us — we handle creators, schedules, and execution.</p>
+            </div>
+            <div class="card">
+                <h3>Optimized Performance</h3>
+                <p>We deliver measurable results without exposing individual creators.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        © 2026 Lone Wolf Portfolio. All Rights Reserved.
+    </footer>
+</body>
+</html>
