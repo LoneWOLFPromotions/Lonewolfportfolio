@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recent Collaborators - Lone Wolf</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo"><strong>LONE WOLF</strong></div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="community.html">Community</a>
+            <a href="campaigns.html">Campaigns</a>
+            <a href="pricing.html">Pricing</a>
+            <a href="collaborators.html">Collaborators</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Recent Collaborators</h2>
+        <p>We’ve proudly worked with these brands, companies, and creators to deliver high-quality campaigns across YouTube, TikTok, Instagram, and Twitch.</p>
+
+        <div class="cards">
+            <div class="card">Xiaomi POCO</div>
+            <div class="card">OBSBOT</div>
+            <div class="card">Razer</div>
+            <div class="card">Logitech</div>
+            <div class="card">Steel Series</div>
+            <div class="card">CarX Technologies, LLC.</div>
+            <div class="card">Wanda Software</div>
+            <div class="card">Ovidiu Pop</div>
+            <div class="card">Heroes of Mavia</div>
+            <div class="card">Olzhass</div>
+            <div class="card">Interactive 360</div>
+            <div class="card">Maleo</div>
+            <div class="card">Hutch Games</div>
+        </div>
+    </section>
+
+    <footer>
+        © 2026 Lone Wolf Portfolio. All Rights Reserved.
+    </footer>
+</body>
+</html>
